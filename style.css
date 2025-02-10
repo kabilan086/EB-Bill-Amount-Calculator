@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    background-color: rgb(214, 214, 97);
+    font-family: 'poppins',sans-serif;
+}
+h2{
+    color: white;
+}
+#wrapper{
+    background-color: #1e1e1e;
+    height: 250px;
+    width: 300px;
+    margin: 100px auto ;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+button{
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: #ffeba7;
+    padding: 5px;
+    border-radius: 5px;
+    color: black;
+    width: 100px;
+    text-align: center;
+   
+    
+
+}
+input{
+    padding: 5px;
+    border-radius: 5px;
+}
+
+
+
+#result{
+    color: white;
+    margin-top: 20px;
+    font-size: medium;
+}
